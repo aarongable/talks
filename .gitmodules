@@ -1,0 +1,3 @@
+[submodule "2015/10/pebble-hq/reveal.js"]
+	path = 2015/10/pebble-hq/reveal.js
+	url = https://github.com/hakimel/reveal.js
